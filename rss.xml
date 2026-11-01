@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>拾光小筑</title>
+  <link>https://710-151.github.io/blog/</link>
+  <description>记录、分享、成长 —— 一个喜欢折腾的普通人</description>
+  <language>zh-CN</language>
+    <item>
+      <title>我的博客正式开张啦 🎉</title>
+      <link>https://710-151.github.io/blog/#/post/hello-blog</link>
+      <guid>https://710-151.github.io/blog/#/post/hello-blog</guid>
+      <pubDate>Fri, 02 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[欢迎来到我的小站！这里会记录我的**学习笔记**、*生活随想*、还有各种好玩的折腾。 这里有什么 - 📄 长文章：技术、读书、思考 - 📷 照片：生活碎片 - 🎬 视频 / ]]></description>
+    </item>
+    <item>
+      <title>20 个让代码更优雅的 JavaScript 技巧</title>
+      <link>https://710-151.github.io/blog/#/post/js-tips</link>
+      <guid>https://710-151.github.io/blog/#/post/js-tips</guid>
+      <pubDate>Sat, 10 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[整理了 20 个日常开发中特别好用的 JS 技巧，每个都附上例子。 1. 可选链与空值合并 const city = user?.address?.city ?? '未知城市'; ]]></description>
+    </item>
+    <item>
+      <title>用 5 分钟看懂傅里叶变换的直觉</title>
+      <link>https://710-151.github.io/blog/#/post/math-note</link>
+      <guid>https://710-151.github.io/blog/#/post/math-note</guid>
+      <pubDate>Wed, 14 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[傅里叶变换说穿了就一句话：**任何信号都能拆成不同频率的正弦波叠加**。 核心公式 $\int_{-\infty}^{\infty} f(x) e^{-2\pi i \xi x}]]></description>
+    </item>
+    <item>
+      <title>手冲咖啡入门：从翻车到稳定出杯</title>
+      <link>https://710-151.github.io/blog/#/post/coffee</link>
+      <guid>https://710-151.github.io/blog/#/post/coffee</guid>
+      <pubDate>Sat, 17 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[折腾了三个月，终于能稳定冲出一杯不翻车的手冲了，记录一下参数。 我的配置 | 项目 | 参数 | | --- | --- | | 豆子 | 埃塞俄比亚 耶加雪菲 | | 研磨度 |]]></description>
+    </item>
+    <item>
+      <title>用流程图讲清「文章从写到发布」的全流程</title>
+      <link>https://710-151.github.io/blog/#/post/screenshot-flow</link>
+      <guid>https://710-151.github.io/blog/#/post/screenshot-flow</guid>
+      <pubDate>Tue, 20 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[本站后台的发布流程，画成图就是这样： graph TD A[灵感 / 素材] --> B{类型?} B -->|长文| C[Markdown 编辑器] B -->|随手记| D[笔]]></description>
+    </item>
+    <item>
+      <title>周末的城市光影</title>
+      <link>https://710-151.github.io/blog/#/post/photo-album-1</link>
+      <guid>https://710-151.github.io/blog/#/post/photo-album-1</guid>
+      <pubDate>Fri, 23 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[背着相机在城市里暴走一天，选了四张最喜欢的。]]></description>
+    </item>
+    <item>
+      <title>收藏：一个 把静物拍出电影感 的视频</title>
+      <link>https://710-151.github.io/blog/#/post/video-rec</link>
+      <guid>https://710-151.github.io/blog/#/post/video-rec</guid>
+      <pubDate>Sun, 25 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[布光、构图、后期调色，全程干货。]]></description>
+    </item>
+    <item>
+      <title>单曲循环：适合写作时听的钢琴曲</title>
+      <link>https://710-151.github.io/blog/#/post/music-share</link>
+      <guid>https://710-151.github.io/blog/#/post/music-share</guid>
+      <pubDate>Mon, 26 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[后台写作时挂着，专注力 +100。]]></description>
+    </item>
+    <item>
+      <title>神器：一键生成手绘风架构图</title>
+      <link>https://710-151.github.io/blog/#/post/link-tools</link>
+      <guid>https://710-151.github.io/blog/#/post/link-tools</guid>
+      <pubDate>Tue, 27 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[画图工具天花板，离线也能用。]]></description>
+    </item>
+    <item>
+      <title>把每一个平凡的日子过得有意义，就是了不起的生活。</title>
+      <link>https://710-151.github.io/blog/#/post/quote-1</link>
+      <guid>https://710-151.github.io/blog/#/post/quote-1</guid>
+      <pubDate>Wed, 28 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>今日碎碎念</title>
+      <link>https://710-151.github.io/blog/#/post/note-1</link>
+      <guid>https://710-151.github.io/blog/#/post/note-1</guid>
+      <pubDate>Thu, 29 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[今天把博客的**暗色模式**调好了，久盯屏幕眼睛舒服多了。 明天计划：把相册页的瀑布流加载再优化一下。]]></description>
+    </item>
+    <item>
+      <title>🔒 密码测试：私密内容（密码 1234）</title>
+      <link>https://710-151.github.io/blog/#/post/pwd-post</link>
+      <guid>https://710-151.github.io/blog/#/post/pwd-post</guid>
+      <pubDate>Fri, 30 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[这是一篇**密码保护**文章，密码是 1234。输入正确密码才能看到这段话。]]></description>
+    </item>
+    <item>
+      <title>Vue3 从零到一（一）：响应式原理</title>
+      <link>https://710-151.github.io/blog/#/post/series-vue-1</link>
+      <guid>https://710-151.github.io/blog/#/post/series-vue-1</guid>
+      <pubDate>Wed, 07 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[响应式是什么 数据变了，视图自动跟着变。 Proxy 实现 function reactive(obj) { return new Proxy(obj, { get(target,]]></description>
+    </item>
+    <item>
+      <title>Vue3 从零到一（二）：编译优化与 diff</title>
+      <link>https://710-151.github.io/blog/#/post/series-vue-2</link>
+      <guid>https://710-151.github.io/blog/#/post/series-vue-2</guid>
+      <pubDate>Mon, 12 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[静态提升 编译时把纯静态节点提出来，diff 时直接跳过。 PatchFlags 给动态节点打上标记，更新时只比对带标记的部分。 // 编译产物示意 const vnode = c]]></description>
+    </item>
+    <item>
+      <title>写博客一年后的一些想法</title>
+      <link>https://710-151.github.io/blog/#/post/archive-thoughts</link>
+      <guid>https://710-151.github.io/blog/#/post/archive-thoughts</guid>
+      <pubDate>Sat, 31 Oct 2026 14:25:30 GMT</pubDate>
+      <description><![CDATA[为什么要写 一开始只是想记录，后来发现**输出才是最好的输入**。 数据 写了一年，产出 40+ 篇，最火的一篇是 JS 技巧合集（1200+ 浏览）。 接下来 - 保持每周一更 ]]></description>
+    </item>
+</channel></rss>
